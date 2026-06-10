@@ -170,7 +170,7 @@
       "version": 3,
       "versionNonce": 1850921530,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1780380642693,
       "link": null,
       "locked": false,
@@ -186,10 +186,7 @@
       ],
       "pressures": [],
       "simulatePressure": true,
-      "lastCommittedPoint": [
-        0.0001,
-        0.0001
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "gscljVVbs0CLBlM1gIfKt",
@@ -214,7 +211,7 @@
       "version": 46,
       "versionNonce": 1884042342,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1780380662654,
       "link": null,
       "locked": false,
@@ -448,10 +445,7 @@
         0
       ],
       "simulatePressure": false,
-      "lastCommittedPoint": [
-        7.3841942170761286,
-        -2.013866680414708
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "-9RtdCQI7DCygs14rQ7E1",
@@ -476,7 +470,7 @@
       "version": 14,
       "versionNonce": 179573498,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1780380663271,
       "link": null,
       "locked": false,
@@ -550,10 +544,7 @@
         0
       ],
       "simulatePressure": false,
-      "lastCommittedPoint": [
-        12.754521753737663,
-        8.726751517907928
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "a4M74-t_ZzYmCcaGD2Nic",
@@ -578,7 +569,7 @@
       "version": 13,
       "versionNonce": 1905654010,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1780380663607,
       "link": null,
       "locked": false,
@@ -647,10 +638,7 @@
         0
       ],
       "simulatePressure": false,
-      "lastCommittedPoint": [
-        13.425745091653198,
-        9.398048605824101
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "Qz0Nmp-uhIpOm5XcHI3N3",
@@ -675,7 +663,7 @@
       "version": 23,
       "versionNonce": 503661242,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1780380664230,
       "link": null,
       "locked": false,
@@ -794,10 +782,7 @@
         0
       ],
       "simulatePressure": false,
-      "lastCommittedPoint": [
-        13.425745091653198,
-        6.71288483749322
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "l-9wJjsby_1K0U4A0ppUM",
@@ -822,7 +807,7 @@
       "version": 10,
       "versionNonce": 937867622,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1780380664913,
       "link": null,
       "locked": false,
@@ -876,10 +861,7 @@
         0
       ],
       "simulatePressure": false,
-      "lastCommittedPoint": [
-        55.045722042445504,
-        -0.6712970879159457
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "cHmY42QDXPaWL0fAtC844",
@@ -904,7 +886,7 @@
       "version": 13,
       "versionNonce": 170554214,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1780380665220,
       "link": null,
       "locked": false,
@@ -973,10 +955,7 @@
         0
       ],
       "simulatePressure": false,
-      "lastCommittedPoint": [
-        3.3564608562468266,
-        10.069333402073312
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "gOXyjQtj_I6yYtydaEu37",
@@ -1001,7 +980,7 @@
       "version": 8,
       "versionNonce": 666460602,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1780380665775,
       "link": null,
       "locked": false,
@@ -1045,10 +1024,7 @@
         0
       ],
       "simulatePressure": false,
-      "lastCommittedPoint": [
-        -2.6851391849971833,
-        19.467369716230564
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "dVIyHgps8X1n9piFVNZTR",
@@ -1073,7 +1049,7 @@
       "version": 17,
       "versionNonce": 1216962874,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1780380666225,
       "link": null,
       "locked": false,
@@ -1162,10 +1138,7 @@
         0
       ],
       "simulatePressure": false,
-      "lastCommittedPoint": [
-        6.04160004124401,
-        14.097066762902728
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "qgm2BOHaDWYMCi-vQkw3I",
@@ -1190,7 +1163,7 @@
       "version": 9,
       "versionNonce": 752987578,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1780380667441,
       "link": null,
       "locked": false,
@@ -1239,10 +1212,7 @@
         0
       ],
       "simulatePressure": false,
-      "lastCommittedPoint": [
-        49.67534533911703,
-        0
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "QG1ULi4paI4Wit33HLRqb",
@@ -1267,7 +1237,7 @@
       "version": 6,
       "versionNonce": 314638310,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1780380667648,
       "link": null,
       "locked": false,
@@ -1301,10 +1271,7 @@
         0
       ],
       "simulatePressure": false,
-      "lastCommittedPoint": [
-        -5.370278369994367,
-        10.069333402073426
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "8l5hojF3tgenCQCiUiRfE",
@@ -1329,7 +1296,7 @@
       "version": 7,
       "versionNonce": 1315328038,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1780380667979,
       "link": null,
       "locked": false,
@@ -1368,10 +1335,7 @@
         0
       ],
       "simulatePressure": false,
-      "lastCommittedPoint": [
-        -2.6851883516642374,
-        19.467369716230678
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "4Y0GhR51PiDj9Lvus_eQh",
@@ -1396,7 +1360,7 @@
       "version": 17,
       "versionNonce": 1664841894,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1780380668384,
       "link": null,
       "locked": false,
@@ -1485,10 +1449,7 @@
         0
       ],
       "simulatePressure": false,
-      "lastCommittedPoint": [
-        12.754521753737208,
-        26.180266845390634
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "c82YoMwHcZlZw9wh7rdG6",
@@ -1513,7 +1474,7 @@
       "version": 8,
       "versionNonce": 510204026,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1780380680466,
       "link": null,
       "locked": false,
@@ -1557,10 +1518,7 @@
         0
       ],
       "simulatePressure": false,
-      "lastCommittedPoint": [
-        1.3426433424990591,
-        10.740605906655787
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "HgJ5SLFTy409b_ptbW68D",
@@ -1585,7 +1543,7 @@
       "version": 6,
       "versionNonce": 1737002042,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1780380680646,
       "link": null,
       "locked": false,
@@ -1614,10 +1572,7 @@
         0
       ],
       "simulatePressure": false,
-      "lastCommittedPoint": [
-        0,
-        2.685151476664032
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "yiNjJE0uJRUQpvbV6nQDZ",
@@ -1642,7 +1597,7 @@
       "version": 13,
       "versionNonce": 57487930,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1780380681014,
       "link": null,
       "locked": false,
@@ -1711,10 +1666,7 @@
         0
       ],
       "simulatePressure": false,
-      "lastCommittedPoint": [
-        17.453576785816267,
-        0.6712847962493242
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "wQPmh7s_pbTin1N79BdXJ",
@@ -1739,7 +1691,7 @@
       "version": 18,
       "versionNonce": 1764490982,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1780380681996,
       "link": null,
       "locked": false,
@@ -1833,10 +1785,7 @@
         0
       ],
       "simulatePressure": false,
-      "lastCommittedPoint": [
-        11.411878411238376,
-        10.069333402073312
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "zcKhhQ_DBZZLPFYH5348p",
@@ -1861,7 +1810,7 @@
       "version": 17,
       "versionNonce": 1845081958,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1780380682695,
       "link": null,
       "locked": false,
@@ -1950,10 +1899,7 @@
         0
       ],
       "simulatePressure": false,
-      "lastCommittedPoint": [
-        17.453478452482614,
-        -2.013866680414708
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "GzEoqpvjFsjZ78mleROOx",
@@ -1978,7 +1924,7 @@
       "version": 16,
       "versionNonce": 1049808870,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1780380683046,
       "link": null,
       "locked": false,
@@ -2057,10 +2003,7 @@
         0
       ],
       "simulatePressure": false,
-      "lastCommittedPoint": [
-        2.6851883516642374,
-        0
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "zsqJSSjIdI0gjGBnljNtr",
@@ -2085,7 +2028,7 @@
       "version": 16,
       "versionNonce": 1510633530,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1780380683392,
       "link": null,
       "locked": false,
@@ -2169,10 +2112,7 @@
         0
       ],
       "simulatePressure": false,
-      "lastCommittedPoint": [
-        19.46734513289698,
-        16.782218239566646
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "0YMyEIKiiHPpJEIJ0WyS4",
@@ -2197,7 +2137,7 @@
       "version": 7,
       "versionNonce": 1419447290,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1780380683548,
       "link": null,
       "locked": false,
@@ -2236,10 +2176,7 @@
         0
       ],
       "simulatePressure": false,
-      "lastCommittedPoint": [
-        20.13866680414685,
-        -8.055466721658718
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "XlM0TfW-1FdV4CFxWF5IH",
@@ -2264,7 +2201,7 @@
       "version": 17,
       "versionNonce": 1791441786,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1780380683930,
       "link": null,
       "locked": false,
@@ -2353,10 +2290,7 @@
         0
       ],
       "simulatePressure": false,
-      "lastCommittedPoint": [
-        24.837721836225228,
-        5.370315244994686
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "esTMFy9H8iyLJBEIXg9jc",
@@ -2381,7 +2315,7 @@
       "version": 10,
       "versionNonce": 510540966,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1780380684473,
       "link": null,
       "locked": false,
@@ -2435,10 +2369,7 @@
         0
       ],
       "simulatePressure": false,
-      "lastCommittedPoint": [
-        6.712921712493426,
-        24.166400164975926
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "QlzZuw45UBIdkidCq9N3T",
@@ -2463,7 +2394,7 @@
       "version": 9,
       "versionNonce": 972949542,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1780380684697,
       "link": null,
       "locked": false,
@@ -2512,10 +2443,7 @@
         0
       ],
       "simulatePressure": false,
-      "lastCommittedPoint": [
-        -39.606110270377485,
-        44.30506696912255
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "574WnF4IycjSyIIacfaaz",
@@ -2540,7 +2468,7 @@
       "version": 11,
       "versionNonce": 663080678,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1780380699688,
       "link": null,
       "locked": false,
@@ -2599,10 +2527,7 @@
         0
       ],
       "simulatePressure": false,
-      "lastCommittedPoint": [
-        30.879321877469465,
-        1.3425695924986485
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "wZnY5E-SIFfBWg8OgfP2O",
@@ -2627,7 +2552,7 @@
       "version": 9,
       "versionNonce": 1330834022,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1780380700387,
       "link": null,
       "locked": false,
@@ -2676,10 +2601,7 @@
         0
       ],
       "simulatePressure": false,
-      "lastCommittedPoint": [
-        20.138666804146396,
-        1.3425818841653836
-      ]
+      "lastCommittedPoint": null
     },
     {
       "id": "MUvZ9m0Gq_Swk19zmufiW",
@@ -2704,7 +2626,7 @@
       "version": 9,
       "versionNonce": 1148544486,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1780380701437,
       "link": null,
       "locked": false,
@@ -2753,10 +2675,192 @@
         0
       ],
       "simulatePressure": false,
-      "lastCommittedPoint": [
-        40.948655279542436,
-        6.712884837493334
-      ]
+      "lastCommittedPoint": null
+    },
+    {
+      "id": "gJ79LeobkV3kiUXoAj8qe",
+      "type": "text",
+      "x": 153.27688598632812,
+      "y": 1613.3701580056459,
+      "width": 813.95947265625,
+      "height": 75,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aW",
+      "roundness": null,
+      "seed": 1550629260,
+      "version": 40,
+      "versionNonce": 87874100,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1781065663071,
+      "link": null,
+      "locked": false,
+      "text": "LangSmith is a debugging, monitoring, and evaluation platform for applications built \nwith LLMs and AI agents. It is made by the LangChain team, but it can \nalso work with applications that do not use LangChain.",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "LangSmith is a debugging, monitoring, and evaluation platform for applications built \nwith LLMs and AI agents. It is made by the LangChain team, but it can \nalso work with applications that do not use LangChain.",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "zvTj7fjaBm7RH3NsWU5TB",
+      "type": "text",
+      "x": 145.13882446289062,
+      "y": 1726.842385945499,
+      "width": 759.1194458007812,
+      "height": 75,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aX",
+      "roundness": null,
+      "seed": 1274726196,
+      "version": 52,
+      "versionNonce": 1764046772,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1781065583840,
+      "link": null,
+      "locked": false,
+      "text": "Why it is useful?\n\nWhen your chatbot receives a question, several hidden operations may happen:",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Why it is useful?\n\nWhen your chatbot receives a question, several hidden operations may happen:",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "2lVuEI1COrYZ3HU_1Agsl",
+      "type": "text",
+      "x": 249.24038696289062,
+      "y": 1834.5181040322366,
+      "width": 378.41986083984375,
+      "height": 385,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aY",
+      "roundness": null,
+      "seed": 67767988,
+      "version": 94,
+      "versionNonce": 1910596916,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1781065570672,
+      "link": null,
+      "locked": false,
+      "text": "User question\n   ↓\nPrompt construction\n   ↓\nLLM call\n   ↓\nTool or database call\n   ↓\nMemory/checkpoint retrieval\n   ↓\nFinal response",
+      "fontSize": 28,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "User question\n   ↓\nPrompt construction\n   ↓\nLLM call\n   ↓\nTool or database call\n   ↓\nMemory/checkpoint retrieval\n   ↓\nFinal response",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "nPGBSPwY8YaUoJzkl0_-W",
+      "type": "text",
+      "x": 176.11758422851562,
+      "y": 2313.71879756451,
+      "width": 1255.267333984375,
+      "height": 420,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aZ",
+      "roundness": null,
+      "seed": 1489853068,
+      "version": 22,
+      "versionNonce": 1431720244,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1781065642712,
+      "link": null,
+      "locked": false,
+      "text": "LangSmith records this complete execution as a trace, allowing you to inspect every step, \nincluding inputs, outputs, errors, execution time, token usage, tool calls, and model behavior.\n\nFor your LangGraph Agentic chatbot, LangSmith can help you:\n\n👉🏻Find why an agent selected the wrong tool.\n👉🏻Inspect the exact prompt sent to the model.\n👉🏻Debug failed nodes in the LangGraph workflow.\n👉🏻Measure response latency and token costs.\n👉🏻Review conversations and multi-turn threads.\n👉🏻Compare different prompts or model versions.\n👉🏻Evaluate chatbot quality before and after deployment.",
+      "fontSize": 28,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "LangSmith records this complete execution as a trace, allowing you to inspect every step, \nincluding inputs, outputs, errors, execution time, token usage, tool calls, and model behavior.\n\nFor your LangGraph Agentic chatbot, LangSmith can help you:\n\n👉🏻Find why an agent selected the wrong tool.\n👉🏻Inspect the exact prompt sent to the model.\n👉🏻Debug failed nodes in the LangGraph workflow.\n👉🏻Measure response latency and token costs.\n👉🏻Review conversations and multi-turn threads.\n👉🏻Compare different prompts or model versions.\n👉🏻Evaluate chatbot quality before and after deployment.",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "9-gqgMNr63EbPyEux-Imx",
+      "type": "text",
+      "x": 259.9166624205602,
+      "y": 1452.333961053672,
+      "width": 516.311767578125,
+      "height": 45,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aa",
+      "roundness": null,
+      "seed": 2126757900,
+      "version": 35,
+      "versionNonce": 1727159820,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1781065708603,
+      "link": null,
+      "locked": false,
+      "text": "Observability with LangSmith ",
+      "fontSize": 36,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Observability with LangSmith ",
+      "autoResize": true,
+      "lineHeight": 1.25
     }
   ],
   "appState": {
