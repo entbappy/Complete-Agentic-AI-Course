@@ -10,3 +10,5 @@
 👉🏻 BappyGPT Project: https://github.com/entbappy/BappyGPT
 
 👉🏻 TripMate AI Project: https://github.com/entbappy/TripMate-AI-A-Multi-Agent-Travel-Planner-with-LangGraph
+
+👉🏻 AgentWriter-AI Project: https://github.com/entbappy/AgentWriter-AI
